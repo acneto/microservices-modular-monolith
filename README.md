@@ -2,7 +2,7 @@
 
 In today’s tech world people scream microservices when they don't know what to say :) 
 
-Instead of going straight to microservices, there’s an alternative solution: a **Modular Monolith**. The modular monolith provides many of the benefits of microservices, such as clear separation of concerns and maintainability, without the complexity and overhead that come with managing multiple distributed services. Think like applying [bounded contexts](https://martinfowler.com/bliki/BoundedContext.html) pattern on a monorepo.
+[Instead of going straight to microservices](https://martinfowler.com/bliki/MonolithFirst.html), there’s an alternative solution: a **Modular Monolith**. The modular monolith provides many of the benefits of microservices, such as clear separation of concerns and maintainability, without the complexity and overhead that come with managing multiple distributed services. Think like applying [bounded contexts](https://martinfowler.com/bliki/BoundedContext.html) pattern on a monorepo.
 
 Here’s a closer look at why microservices might not be the right answer for every team or project and why a **Modular Monolith** might be a better approach.
 
