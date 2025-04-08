@@ -1,6 +1,10 @@
 # Microservices or modular monolith?
 
-In today’s tech world people scream microservices when they don't know what to say :) 
+In today’s tech world, people scream microservices when they don't know what to say :) 
+
+More good reflections here:
+- [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
+- [](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
 
 [Instead of going straight to microservices](https://martinfowler.com/bliki/MonolithFirst.html), there’s an alternative solution: a **Modular Monolith**. The modular monolith provides many of the benefits of microservices, such as clear separation of concerns and maintainability, without the complexity and overhead that come with managing multiple distributed services. Think like applying [bounded contexts](https://martinfowler.com/bliki/BoundedContext.html) pattern on a monorepo.
 
